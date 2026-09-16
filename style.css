@@ -1,0 +1,25 @@
+body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+img {
+            width: 200px;
+            height: 200px;
+        }
+
+.foto1 {
+            border-radius: 15px;
+        }
+
+.foto2 {
+    border-radius: 15px 50px;
+}
+
+.foto3 {
+    border-radius: 15px 50px 30px;
+}
+
+.foto4 {
+    border-radius: 15px 50px 30px 5px;
+}
